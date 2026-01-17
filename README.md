@@ -126,10 +126,3 @@
 
 </p>
 
----
-
-<div align="center">
-
-⭐ *Learning by building. Building by analyzing.*  
-
-</div>
