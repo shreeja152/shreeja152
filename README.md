@@ -42,17 +42,52 @@
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack & Skills  
 
-<p align="left">
+### 🧠 Languages  
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Frameworks & APIs  
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat"/>
+</p>
+
+### 📊 BI & Analytics  
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-4B8BBE?style=flat"/>
+<img src="https://img.shields.io/badge/Regression%20Models-6A5ACD?style=flat"/>
+<img src="https://img.shields.io/badge/ETL-2F4F4F?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-4682B4?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Quality-556B2F?style=flat"/>
+</p>
+
+### 🛠️ Tools & Platforms  
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
+
+### 💡 Core Concepts  
+<p>
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-708090?style=flat"/>
+</p>
+ 
 
 ---
 
@@ -70,9 +105,25 @@
 <a href="https://www.linkedin.com/in/sks1523/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/shreeja152" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 <a href="https://shreejas-insights-hub.lovable.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
 </a>
+<a href="mailto:shrija1502@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ *Learning by building. Building by analyzing.*  
+
+</div>
+
 </p>
 
 ---
