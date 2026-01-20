@@ -38,7 +38,7 @@
 ✨ Advanced SQL for Analytics  
 ✨ Data Modeling & ETL Pipelines  
 ✨ Power BI Performance Optimization  
-✨ Statistics for Data Analysis  
+✨ Statistics for Data Analysis 
 
 ---
 
