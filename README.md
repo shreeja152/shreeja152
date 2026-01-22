@@ -15,21 +15,21 @@
 
 ## 🔭 Ongoing Projects  
 
-📊 **Sales & Market Data Analysis**  
-- Trend analysis, demand patterns & discount impact  
-- 🛠 Python · SQL · Excel · Power BI  
+## 📊 Customer Intelligence & Revenue Insights Platform
 
-🏠 **Housing Price Prediction**  
-- Regression models on real-world datasets  
-- 🛠 Pandas · NumPy · Scikit-learn  
+- End-to-end customer and sales data analysis to uncover revenue trends, customer behavior, and business insights  
+- Data cleaning, exploratory data analysis (EDA), KPI analysis, and insight storytelling with interactive dashboards.
+- 🛠 Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Streamlit  
 
-📈 **Market Intelligence Dashboards**  
-- Interactive KPI dashboards for decision-making  
-- 🛠 Power BI · SQL · Excel  
 
-🔐 **Backend & Data Workflows (Learning Project)**  
-- Secure authentication & API-based data access  
-- 🛠 Python · Flask · REST APIs  
+## 🔌 Sales Analytics REST API (Backend Project)
+
+- Beginner-friendly Python backend project to build and expose sales analytics via RESTful APIs  
+- Designed and implemented API endpoints for revenue metrics and sales insights  
+- Database integration using SQLite with clean backend architecture  
+- Tested APIs using Postman and connected a lightweight frontend for data consumption  
+- 🛠 Python · FastAPI · SQLite · SQLAlchemy · Pydantic · Postman · Streamlit  
+
 
 ---
 
